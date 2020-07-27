@@ -1299,7 +1299,7 @@ section.lazy-placeholder:after {
   -webkit-justify-content: center;
 }
 .cid-s5TxJ0d1Kh .card-wrapper .card-img .mbr-overlay {
-  background-color: #ffffff;
+  background-color: #fad000;
   display: none;
   transition: opacity .3s;
 }
@@ -1307,7 +1307,7 @@ section.lazy-placeholder:after {
   width: 100%;
 }
 .cid-s5TxJ0d1Kh .card-wrapper .card-box {
-  background-color: #ffffff;
+  background-color: #fad000;
   padding: 0 2rem 2rem 2rem;
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
